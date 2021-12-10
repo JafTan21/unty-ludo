@@ -1,4 +1,0 @@
-#Tue Dec 07 19:28:24 BDT 2021
-base.0=/home/mir/Documents/unity/ludo2d/Temp/gradleOut/launcher/build/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
